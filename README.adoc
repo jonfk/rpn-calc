@@ -1,0 +1,4 @@
+= rpn-calc
+Jonathan Fok kan <jfokkan@gmail.com>
+
+Reverse Polish Notation calculator.
